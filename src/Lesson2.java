@@ -1,5 +1,3 @@
-import java.util.*;
-
 public class Lesson2 {
 
     public static int gcd(int m, int n) {
